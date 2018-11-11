@@ -1,0 +1,7 @@
+﻿  Snaker.cpp
+c:\users\jlurobot\documents\visual studio 2015\projects\snaker\snaker\snaker.cpp(250): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+e:\program file\microsoft visual studio 14.0\vc\include\utility(200): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c:\users\jlurobot\documents\visual studio 2015\projects\snaker\snaker\snaker.cpp(154): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<int,unsigned __int64,void,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用
+  c:\users\jlurobot\documents\visual studio 2015\projects\snaker\snaker\snaker.cpp(154): note: 参见对正在编译的函数 模板 实例化“std::pair<int,int>::pair<int,unsigned __int64,void,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用
+  Snaker.vcxproj -> c:\users\jlurobot\documents\visual studio 2015\Projects\Snaker\x64\Debug\Snaker.exe
+  Snaker.vcxproj -> c:\users\jlurobot\documents\visual studio 2015\Projects\Snaker\x64\Debug\Snaker.pdb (Full PDB)
