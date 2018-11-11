@@ -19,6 +19,9 @@ deque<pair<int, int>> snack;//存放组成蛇身体的每个结点的位置
 size_t level;//设置难度
 int x, y;//食物的二维坐标
 
+
+int a = 10;
+
 void srand_food() {//生成新食物的位置
 	bool flag_srand = true;
 	x = rand() % (zone_size - 1) + 0;
